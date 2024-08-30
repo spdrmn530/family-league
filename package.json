@@ -1,15 +1,15 @@
 {
   "name": "league-page",
   "version": "2.3.5",
-  "homepage": "https://github.com/nmelhado/league-page",
+  "homepage": "",
   "repository": {
     "type": "git",
-    "url": "git://github.com/nmelhado/league-page.git"
+    "url": ""
   },
   "author": {
-    "name": "Nicholas Melhado",
-    "email": "n.melhado@gmail.com",
-    "url": "http://www.nmelhado.com/"
+    "name": "",
+    "email": "",
+    "url": ""
   },
   "contributors": [
     {
@@ -31,11 +31,11 @@
   ],
   "funding": {
     "type": "buy_me_a_coffee",
-    "url": "https://www.buymeacoffee.com/nmelhado"
+    "url": ""
   },
   "bugs": {
-    "url": "https://github.com/nmelhado/league-page/issues",
-    "email": "n.melhado@gmail.com"
+    "url": "",
+    "email": ""
   },
   "license": "MIT",
   "engines": {
